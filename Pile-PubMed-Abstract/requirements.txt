@@ -1,0 +1,6 @@
+wasabi
+pandas
+tqdm
+bs4
+dspipe
+jsonlines
